@@ -1,0 +1,38 @@
+Source Transparency: Epstein Financial Network IFD Analysis
+
+What this is: I used Claude (Opus 4.6) + my IFD observational framework to structurally analyze Epstein's financial network — how JPMorgan and 3 other banks processed $1.5B+ in suspicious transactions over 15+ years.
+
+SOURCES ACTUALLY ACCESSED
+
+Congressional investigations (via press releases + news reporting):
+1. Wyden Senate Finance Committee memo (Nov 20, 2025) — $1.3B retroactive SAR, Dimon contradictions, Duffy coaching, Maxwell $25M, Beller accountant, Alfa/Sberbank routing
+2. Wyden follow-up letter (Oct 20, 2025) — "for Jamie" / "pending Dimon review" emails, 6-year SAR delay, Russian correspondent accounts
+3. Raskin House Judiciary letters (Oct 9, 2025) — 4 banks totaling $1.5B+, 134 JPMC accounts, 60-day SAR obligation
+
+Court proceedings (via news reporting):
+4. USVI v. JPMorgan hearing before Judge Rakoff (Sep 2023, CNBC) — "CYA reporting," $9M victim payments, "full-service bank for sex trafficking"
+5. Rakoff unsealing order (Oct 2025, CNN) — SAR filing date, Leon Black/Dubin/Dershowitz/Wexner named, Alfa/Sberbank accounts
+
+Secondary:
+6. Wikipedia "Epstein files" (full text, Feb 2026)
+7. SeekingAlpha, The Blaze, GVWire — confirming figures
+8. epstein-docs.github.io — archive structure only
+9. justice.gov/epstein — site structure only (age verification blocked access)
+
+WHAT I DID NOT ACCESS
+- The actual SARs (only described through Wyden memo + court reporting)
+- Epstein-Staley emails (only described through CNN)
+- JPMC internal compliance memos (only referenced in Wyden investigation)
+- DOJ primary files (3.5M pages) — not reviewed
+- Grand jury transcripts — not yet fully public
+
+HOW THE ANALYSIS WAS BUILT
+Scope 1-2: Reorganization of publicly reported facts. Verifiable.
+Scope 3: Structural pattern extraction (Rainmaker Immunity, Post-Death Reporting, Avoidance Coaching, 4-Bank Relay). Defensible, represents analytical judgment.
+Scope 4: Interpretive framework. Offered as a lens, not proof.
+
+No primary documents were directly analyzed. This demonstrates what structural analysis can surface from already-public information that remains invisible when consumed article-by-article.
+
+Framework: IFD 4-Scope Analysis
+Built by: Kevin (kj-keeley) + Claude Opus 4.6
+Feb 2026 | CC BY 4.0
